@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26403.7
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Intermediate-Tutorials", "CSharp-Intermediate-Tutorials\CSharp-Intermediate-Tutorials.csproj", "{E0633A9D-36D1-4B0C-B0B8-1A44CACF64A5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSharp-Intermediate-Classes", "CSharp-Intermediate-Tutorials\CSharp-Intermediate-Classes.csproj", "{E0633A9D-36D1-4B0C-B0B8-1A44CACF64A5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
