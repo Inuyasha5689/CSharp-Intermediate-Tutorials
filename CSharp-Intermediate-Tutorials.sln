@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Composition", "Composition\Composition.csproj", "{26516F2D-E460-4A5A-8E67-B4C427DCDC48}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon", "Amazon\Amazon.csproj", "{1BB70C63-783F-4CA0-821B-90CD900AB8AD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{26516F2D-E460-4A5A-8E67-B4C427DCDC48}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{26516F2D-E460-4A5A-8E67-B4C427DCDC48}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{26516F2D-E460-4A5A-8E67-B4C427DCDC48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BB70C63-783F-4CA0-821B-90CD900AB8AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BB70C63-783F-4CA0-821B-90CD900AB8AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BB70C63-783F-4CA0-821B-90CD900AB8AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BB70C63-783F-4CA0-821B-90CD900AB8AD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
