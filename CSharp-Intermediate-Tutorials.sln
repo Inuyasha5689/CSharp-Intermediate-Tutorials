@@ -31,6 +31,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MethodOverriding", "MethodO
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{C023CE23-8982-4563-8867-E72FE8AF1390}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Extensibility", "Extensibility\Extensibility.csproj", "{CE99000B-7708-4EE4-AE1A-0479A0C3B220}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -93,6 +95,10 @@ Global
 		{C023CE23-8982-4563-8867-E72FE8AF1390}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C023CE23-8982-4563-8867-E72FE8AF1390}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C023CE23-8982-4563-8867-E72FE8AF1390}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE99000B-7708-4EE4-AE1A-0479A0C3B220}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE99000B-7708-4EE4-AE1A-0479A0C3B220}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE99000B-7708-4EE4-AE1A-0479A0C3B220}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE99000B-7708-4EE4-AE1A-0479A0C3B220}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
